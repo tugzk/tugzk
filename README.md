@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="tugzk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/tugzkk
-[linkedin]: linkedin.com/in/tugrul-kara
+[linkedin]: https://linkedin.com/in/tugrul-kara
 
