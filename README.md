@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on a Covid-19 dashboard app.
 - 🌱 I’m currently learning Dart for mobile application development.
-- 👯 I’m looking to collaborate on ...
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about ...
 - ⚡ Life Goal: To own a BMW X5M
@@ -22,4 +21,5 @@ Here are some ideas to get you started:
 [<img align="left" alt="tugzk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/tugzkk
+[linkedin]: linkedin.com/in/tugrul-kara
 
