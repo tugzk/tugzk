@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on a Covid-19 dashboard app.
-- 🌱 I’m currently learning Dart for mobile application development.
+- 🌱 I’m currently learning Javascript for web development.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
 - 💬 Ask me about anything, I'd love to collab with like minded programmers.
 - ⚡ Fun Fact: If I could live anywhere in the world, it would be Tokyo.
